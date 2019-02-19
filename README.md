@@ -40,7 +40,7 @@ Tech projects aren't being built on mass around ARK. There is no incubator to sp
 
 - **It's automatic** - There are no delays in funding. When a project hits the funding thresholds, it is funded
 - **No COI** - Conflict of interest is not a thing because the community makes the choice as to which projects get funded, not the admins or operators of the delegate
-- **Whale Resistant** - The board elections for ACF are a popularity contest run primarily by whales. To have the same impact here, the whale would need to give away their funds.
+- **Whale Resistant** - The board elections for ACF are a popularity contest decided primarily by whales. To have the same impact here, the whale would need to give away their funds.
 - **No Funding Cliffs** - As a delegate, [Project Fund](https://projectfund.app) will have a steady stream of funding. Ongoing donations from the community are part of the design.
 - **Legally Backed** - There is an actual company, registered in Estonia, backing the operation of this delegate and the system as a whole.
 - **Software Only** - [Project Fund](https://projectfund.app) only funds software projects.
