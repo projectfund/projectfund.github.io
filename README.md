@@ -36,6 +36,15 @@ Again, all of this happens automatically without the intervention of a board, el
 
 Tech projects aren't being built on mass around ARK. There is no incubator to speak of in the ecosystem beyond the team itself. Even work done on the core gets paid for after the effort is expended, discouraging anyone who doesn't have the free time to contribute. Conflict of interest rules around the ACF mean that 7 highly active members of the community are not eligible for any funding from the only community run funding entity. `Jarunik`'s efforts are great, but he can't be expected to do it alone.
 
+**HOW THIS DIFFERS FROM THE ACF**
+
+- **It's automatic** - There are no delays in funding. When a project hits the funding thresholds, it is funded
+- **No COI** - Conflict of interest is not a thing because the community makes the choice as to which projects get funded, not the admins or operators of the delegate
+- **Whale Resistant** - The board elections for ACF are a popularity contest run primarily by whales. To have the same impact here, the whale would need to give away their funds.
+- **No Funding Cliffs** - As a delegate, [Project Fund](https://projectfund.app) will have a steady stream of funding. Ongoing donations from the community are part of the design.
+- **Legally Backed** - There is an actual company, registered in Estonia, backing the operation of this delegate and the system as a whole.
+- **Software Only** - [Project Fund](https://projectfund.app) only funds software projects.
+
 **TIMELINE**
 
 Development work on the project will begin as soon as the delegate starts forging. I expect it to take 2 - 4 weeks to complete the initial buildout. There will be 2 applications required for the system to work.
