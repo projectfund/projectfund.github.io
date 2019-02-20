@@ -96,3 +96,4 @@ To those who back and vote for [Project Fund](http://projectfund.app)'s delegate
 To voters of `arkoar.group`, thank you for sticking by me.
 
 Dan
+AWSdg2CMAgxpnJfLK5jqm8Phtwqr8YWTU6
