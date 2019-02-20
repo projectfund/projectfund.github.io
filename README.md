@@ -95,5 +95,5 @@ To those who encouraged me to proceed with this proposal despite my doubts or de
 To those who back and vote for [Project Fund](http://projectfund.app)'s delegate, thank you.<br>
 To voters of `arkoar.group`, thank you for sticking by me.
 
-Dan
+Dan<br>
 AWSdg2CMAgxpnJfLK5jqm8Phtwqr8YWTU6
